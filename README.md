@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Rishu. I am from Mody University of Science and Technology, Laxmangarh.
+I'm currently learning about open sourcce.
+I'm interested in game development as well as cyber security.
 
 <!--
 **rishu244/rishu244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
